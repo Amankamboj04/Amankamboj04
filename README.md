@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there , I'm Aman Kamboj
 
-<!--
-**Amankamboj04/Amankamboj04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech CSE Student |  MERN Stack Learner |  Exploring Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+*  Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+*  In learning phase, building small projects and improving daily
+*  Interested in **Web Development & Problem Solving**
+*  Goal: To become a Full Stack Developer
+
+---
+
+##  Tech I'm Learning
+
+*  Frontend: HTML, CSS, JavaScript (Basics)
+*  React (Learning)
+*  Node.js & Express (Learning)
+*  MongoDB (Learning)
+*  Tools: Git, GitHub, VS Code
+
+---
+
+##  Projects
+
+* 🔹 Java Programs (Practice Repository)
+* 🔹 MERN Projects (Coming Soon 🚀)
+
+---
+
+## GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amankamboj04&show_icons=true)
+
+
+Thanks for visiting my profile!
