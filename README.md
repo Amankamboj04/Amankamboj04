@@ -32,6 +32,8 @@
 
 ## 🚀 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Amankamboj04&show_icons=true&theme=radical&cache_seconds=86400)
+## 🚀 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats-git-main-username.vercel.app/api?username=Amankamboj04&show_icons=true&theme=tokyonight)
 
 Thanks for visiting my profile!
