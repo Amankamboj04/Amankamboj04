@@ -34,6 +34,7 @@
 
 ## 🚀 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats-git-main-username.vercel.app/api?username=Amankamboj04&show_icons=true&theme=tokyonight)
+## 🚀 GitHub Stats
 
+![Aman's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Amankamboj04&show_icons=true&theme=tokyonight)
 Thanks for visiting my profile!
