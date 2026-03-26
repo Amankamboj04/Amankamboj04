@@ -1,37 +1,53 @@
-# Hi there , I'm Aman Kamboj
-
- B.Tech CSE Student |  MERN Stack Learner |  Exploring Web Development
-
----
-
-## About Me
-
-*  Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-*  In learning phase, building small projects and improving daily
-*  Interested in **Web Development & Problem Solving**
-*  Goal: To become a Full Stack Developer
+<h1 align="center">Hi 👋, I'm Aman Kamboj</h1>
+<h3 align="center">B.Tech CSE Student | MERN Stack Learner | Web Development Explorer 🚀</h3>
 
 ---
 
-##  Tech I'm Learning
+## 👨‍💻 About Me
 
-*  Frontend: HTML, CSS, JavaScript (Basics)
-*  React (Learning)
-*  Node.js & Express (Learning)
-*  MongoDB (Learning)
-*  Tools: Git, GitHub, VS Code
+- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🚀 In learning phase, building small projects and improving daily
+- 💡 Interested in **Web Development & Problem Solving**
+- 🎯 Goal: To become a **Full Stack Developer**
 
 ---
 
-##  Projects
+## 🛠️ Tech I'm Learning
 
-* 🔹 Java Programs (Practice Repository)
-* 🔹 MERN Projects (Coming Soon 🚀)
+### 💻 Frontend
+- HTML  
+- CSS  
+- JavaScript (Basics)  
+
+### ⚛️ Currently Exploring
+- React (Learning)
+
+### 🔧 Backend
+- Node.js & Express (Learning)
+
+### 🗄️ Database
+- MongoDB (Learning)
+
+### 🧰 Tools
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📂 Projects
+
+- 🔹 Java Programs (Practice Repository)  
+- 🔹 MERN Projects (Coming Soon 🚀)  
 
 ---
 
 ## 🚀 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Amankamboj04&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amankamboj04&show_icons=true&theme=tokyonight" />
+</p>
 
-Thanks for visiting my profile!
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
