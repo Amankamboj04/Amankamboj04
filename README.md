@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Kamboj</h1>
-<h3 align="center">B.Tech CSE Student | MERN Stack Learner | Web Development Explorer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech%20CSE%20Student;MERN%20Stack%20Learner;Web%20Development%20Explorer&center=true&width=500&height=45">
+</p>
 
 ---
 
